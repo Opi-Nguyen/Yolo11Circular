@@ -1,1 +1,5 @@
 datasets/
+runs/
+weights/
+*/pycache/*
+*.pyc
